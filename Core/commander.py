@@ -1,4 +1,3 @@
-
 """
 commander.py — Universal Android App Controller (No Root)
 =========================================================
